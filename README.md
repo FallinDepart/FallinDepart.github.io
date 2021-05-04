@@ -4,4 +4,14 @@
 ###成员  
 > *chairman*：Add_Inistrator  
 > 队员[^有好多，懒得写了www]  
-####没得说了awa
+####没得说了awa  
+
+#This is Fallin Depart, a community(?), an electroacoustic(?).  
+>We have hardcore, Dubstep, house and trance.  
+***
+###Members  
+> *chairman*：Add_Inistrator  
+>Team members [^ there are many, too lazy to write them www]  
+####I don't know what i would said awa  
+
+#XD/
