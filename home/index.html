@@ -1,31 +1,50 @@
 <!DOCTYPE html>
 <html>
-    <head>
-        <style type="text/css">
-            #title {
-                text-align: center;
-                line-height: 50vw;
-                margin: auto;
-                font-size: 2vw;
-                font-family: serif;
-                width: 30vw;
-                height: 50vw;
-            }
-            #signboard img{
-                margin: auto;
-                width: 30vw;
-                height: 30vw;
-            }
-        </style>
-    </head>
-    <body>
-        <div id = "title">
-             <h1>
-                Fallin Depart
-            </h1>
-            <div id = "signboard">
-                <img src = "img/Signboard.jpg">
+
+<head>
+    <meta charset="utf-8">
+    <title>Fallin Depart</title>
+    <style type="text/css">
+        #title {
+            text-align: center;
+            line-height: 5vw;
+            margin: auto;
+            font-size: 2vw;
+            font-family: serif;
+            width: 30vw;
+            height: 50vw;
+        }
+        
+        #Sign {
+            display: table;
+            text-align: center;
+        }
+        
+        #signboard {
+            display: table-cell;
+            vertical-align: middle;
+            width: 50vw;
+        }
+        
+        #signboard img {
+            width: 12vw;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="title">
+        <h1>
+            Fallin Depart
+        </h1>
+        <hr>
+        <div id="Sign">
+            <div id="signboard">
+                <img src="img/Signboard.jpg">
             </div>
         </div>
-    </body>
+    </div>
+    <script src="https://cdn.jsdelivr.net/gh/FallinDepart/live2d-widget@latest/autoload.js"></script>
+</body>
+
 </html>
